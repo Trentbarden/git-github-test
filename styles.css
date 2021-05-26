@@ -1,3 +1,7 @@
+html{
+    font-size: 20px;
+}
+
 body{
     
     text-align: center;
@@ -5,13 +9,13 @@ body{
 
 h1{
     
-    font: 80px;
+    font-size: 4.8rem;
     color:blue;
     
 }
 
 p{
-    font: 20px;
+    font-size: 3.0rem;
     color: yellow;
 
 }
